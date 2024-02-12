@@ -1,0 +1,4 @@
+env.sh
+venv/
+data/
+__pycache__

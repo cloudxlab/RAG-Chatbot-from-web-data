@@ -1,0 +1,5 @@
+langchain==0.1.6
+langchain-openai==0.0.5
+bs4==0.0.2
+html2text==2020.1.16
+chromadb==0.4.22
